@@ -1,5 +1,5 @@
 CREATE TABLE Users ( 
-    uers_id INT PRIMARY KEY AUTO_INCREMENT,
+    users_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
     name VARCHAR(50),
     surname VARCHAR(30),
